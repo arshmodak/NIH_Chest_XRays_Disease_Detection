@@ -1,1 +1,1 @@
-# NIH_Chest_XRays_Pneumonia_Detection
+# NIH_Chest_XRays_Disease_Detection
