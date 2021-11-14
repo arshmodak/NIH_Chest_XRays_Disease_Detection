@@ -1,0 +1,3 @@
+[('Atelectasis', 9198), ('Cardiomegaly', 2197), ('Consolidation', 3868), ('Edema', 1913), ('Effusion', 10879), ('Emphysema', 2016), ('Fibrosis', 1307), ('Infiltration', 15149), ('Mass', 4612), ('Nodule', 4976), ('Pleural_Thickening', 2738), ('Pneumonia', 1216), ('Pneumothorax', 4168)]
+
+No Finding: 2258
