@@ -1,3 +1,15 @@
-[('Atelectasis', 9198), ('Cardiomegaly', 2197), ('Consolidation', 3868), ('Edema', 1913), ('Effusion', 10879), ('Emphysema', 2016), ('Fibrosis', 1307), ('Infiltration', 15149), ('Mass', 4612), ('Nodule', 4976), ('Pleural_Thickening', 2738), ('Pneumonia', 1216), ('Pneumothorax', 4168)]
-
-No Finding: 2258
+Infiltration          15326
+Effusion              10912
+Atelectasis            9309
+Nodule                 4998
+Mass                   4659
+Pneumothorax           4205
+Consolidation          3844
+Pleural_Thickening     2756
+Cardiomegaly           2221
+Emphysema              2045
+No Finding             1941
+Edema                  1928
+Fibrosis               1308
+Pneumonia              1232
+Name: variable, dtype: int64
