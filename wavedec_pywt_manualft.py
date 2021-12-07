@@ -15,7 +15,7 @@ import pywt.data
 import matplotlib.pyplot as plt
 import cv2
 
-img = Image.open("/Users/adithyaabhishek/Desktop/FAI5100/nih_cxray/resized/00000001_000.png")
+img = Image.open(r"D:\Northeastern courses\CS 5100\Project\00000075_000.png")
 img_array = np.array(img) 
 """rgb_array = cv2.cvtColor(img_array,cv2.COLOR_GRAY2RGB)
 rimg = Image.fromarray(rgb_array)
